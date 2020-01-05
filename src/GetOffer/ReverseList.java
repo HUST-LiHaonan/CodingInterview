@@ -10,7 +10,6 @@
  */
 package GetOffer;
 
-import javafx.scene.transform.Shear;
 
 /**
  * 〈一句话功能简述〉<br> 
